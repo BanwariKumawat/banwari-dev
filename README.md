@@ -16,8 +16,8 @@ I'm a passionate full-stack web developer from Jaipur, Rajasthan, India 🇮🇳
 
 ## 📫 Connect with me
 - 📍 Location: Jaipur, Rajasthan, India
-- ✉️ Email: banwarikumawat@gmail.com *(optional: if you want to share)*
-- 🌐 Portfolio: *(if you have one, else skip)*
+- ✉️ Email: banwarikumawat@gmail.com
+- 🌐 Portfolio
 
 > “I love building things from scratch and turning ideas into live, user-friendly web apps.”
 
